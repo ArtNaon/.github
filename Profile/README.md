@@ -1,7 +1,7 @@
-<h1 align="center"> ArtNaon | AI Powered Art Guide </h1> <br>
+<h1 align="center"> ArtNaon C241-PS248 | AI Powered Art Guide </h1> <br>
 <p align="center">
   <a>
-    <img alt="ArtNaon" title="ArtNaon" src="https://github.com/ArtNaon/.github/blob/main/Profile/Logo.png" width="200" height="200">
+    <img alt="ArtNaon" title="ArtNaon" src="https://github.com/ArtNaon/.github/blob/main/Profile/Logo.png" width="300" height="300">
   </a>
 </p>
 
